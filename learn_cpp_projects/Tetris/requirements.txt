@@ -1,0 +1,10 @@
+- C++
+- Polymorphism
+- Templates
+- Operator Overloading
+- 2 levels of inheritance
+- Threading
+- namespaces
+- exception handling
+- smart pointers
+- constexpr and consteval
