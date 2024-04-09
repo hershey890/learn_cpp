@@ -8,3 +8,7 @@
 - exception handling
 - smart pointers
 - constexpr and consteval
+- detached/daemon thread to write the game score to a log file
+- interthread communication via a thread safe queue
+- display time using std::chrono
+- use a logging library
