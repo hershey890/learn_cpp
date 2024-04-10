@@ -10,17 +10,19 @@ Aimed at reviewing C++ fundamentals and bringing me up to date with modern C++ (
 - Templates
 - Lambda Expressions
 - Chrono/Time Library section 16.2
+- Threading
 
 ### Todo
-- Threading
+- future, promises, async, and coroutines
+- Error Handling
 - Stdin/Stdout
 - File IO
-- Error Handling
 - Containers
 - Iterators
 - lvalue rvalue stuff and move semantics
 - Unit Testing with GoogleTest
 - Socket programming (use the Posix C API and the Beej Networking Guide)
+- QT
 - CMake
 - Conan (library manager)
 - Regex in C++
@@ -28,10 +30,10 @@ Aimed at reviewing C++ fundamentals and bringing me up to date with modern C++ (
 
 
 ## C++ Projects
-Aimed at applying my knowledge
-- Parallelized mergesort
-- GoPro style image stitcher (may require OpenGL, OpenCV, and Python/Numpy)
-### Tetris
+Aimed at applying my knowledge. 
+- Todo: Parallelized mergesort
+- Todo: GoPro style image stitcher (may require OpenGL, OpenCV, and Python/Numpy)
+### Tetris (todo)
 - 2 threads: one to handle user input and another to update the game state and update the GUI
 - communicate via a custom implemented non-blocking/thread safe queue
 - Write my own queue using templates
