@@ -4,29 +4,32 @@ Aimed at reviewing C++ fundamentals and bringing me up to date with modern C++ (
 
 
 ## C++ Basics
+- Currently on concurrency: 18.5 communicating tasks
+
 ### Completed
+- FileIO and Stdin/Stdout
 - Operator Overloading
 - Inheritance
 - Templates
 - Lambda Expressions
 - Chrono/Time Library section 16.2
 - Threading
+- Unit Testing with GoogleTest (in another repo, need to move here. use in tetris)
+- CMake (in another repo, need to move here. use in tetris)
 
 ### Todo
 - future, promises, async, and coroutines
 - Error Handling
-- Stdin/Stdout
-- File IO
+- semaphores
 - Containers
 - Iterators
 - lvalue rvalue stuff and move semantics
-- Unit Testing with GoogleTest
 - Socket programming (use the Posix C API and the Beej Networking Guide)
 - QT
-- CMake
 - Conan (library manager)
-- Regex in C++
+- C++ Regex
 - Calling SQL scripts and doing SQL queries with a C++ API.
+- [Google Benchmark](https://github.com/google/benchmark)
 
 
 ## C++ Projects
