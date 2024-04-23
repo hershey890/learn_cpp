@@ -35,6 +35,7 @@ Aimed at reviewing C++ fundamentals and bringing me up to date with modern C++ (
 ## C++ Projects
 Aimed at applying my knowledge. 
 - Todo: Parallelized mergesort
+- Todo: .npy file reader. Have it infer the file type with templates and decltype
 - Todo: GoPro style image stitcher (may require OpenGL, OpenCV, and Python/Numpy)
 ### Tetris (todo)
 - 2 threads: one to handle user input and another to update the game state and update the GUI
