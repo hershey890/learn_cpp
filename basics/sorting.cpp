@@ -119,7 +119,7 @@ void heapsort(std::vector<T>& arr) {
     }
 }
 
-int main() {
+int main(void) {
     const int n_elem = 100;
     std::vector<int> arr = createRandomArray<int>(n_elem, 0, 50);
     std::vector<int> arr_truth {arr};
