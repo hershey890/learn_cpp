@@ -29,6 +29,7 @@ Aimed at reviewing C++ fundamentals and bringing me up to date with modern C++ (
 - Conan (library manager)
 - C++ Regex
 - Calling SQL scripts and doing SQL queries with a C++ API.
+- gang of four design patterns (important ones: singleton, composite, prototype, builder, factor, facade, proxy, iterator, observer, mediator, state)
 - [Google Benchmark](https://github.com/google/benchmark)
 
 
